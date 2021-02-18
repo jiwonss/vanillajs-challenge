@@ -4,7 +4,7 @@ const IMG_NUMBER = 8;
 
 function paintImage(imgNumber) {
   const image = new Image();
-  image.src = `/vanillajs_challenge/images/${imgNumber + 1}.jpg`;
+  image.src = `/vanillajs-challenge/images/${imgNumber + 1}.jpg`;
   image.classList.add("bgImage");
   body.prepend(image);
 }
