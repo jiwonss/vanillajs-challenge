@@ -15,7 +15,8 @@ Momentum : https://jiwonss.github.io/vanillajs-challenge/
 |Weather|장소(도시) / 기온|
 |ToDo|추가 - ToDo 입력 / ToDo list 추가 및 localStorage toDos에 추가<br>삭제 - ❌ 클릭 / ToDo list 제거 및 localStorage toDos에서 삭제|
 
-### ToDo
+ToDo
+-----
 
 [ ] css 수정
 
