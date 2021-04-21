@@ -18,6 +18,6 @@ Momentum : https://jiwonss.github.io/vanillajs-challenge/
 ToDo
 -----
 
-[ ] css 수정
+- [ ] css 수정
 
-[ ] 배경 변경
+- [ ] 배경 변경
