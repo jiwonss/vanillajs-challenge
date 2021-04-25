@@ -18,19 +18,19 @@
 
 .container {
   position: absolute;
-  top: 20%;
-  left: 35%;
+  text-align: center;
+  left: 40%;
+  transform: translateX(40%);
+  top: 30%;
+  transform: translateY(-30%);
 }
 
 .js-title {
-  position: relative;
-  left: 20%;
   font-size: 500%;
   color: white;
 }
 
 .greetings {
-  position: relative;
   font-size: 300%;
   color: white;
 }
@@ -38,9 +38,6 @@
 .js-weather {
   color: white;
   font-size: 30px;
-}
-
-.js-toDoForm {
 }
 
 li {
